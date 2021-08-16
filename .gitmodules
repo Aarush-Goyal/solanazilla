@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:Solanazilla/client.git
+[submodule "email-automation"]
+	path = email-automation
+	url = git@github.com:Solanazilla/email-automation.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Solanazilla/backend.git
