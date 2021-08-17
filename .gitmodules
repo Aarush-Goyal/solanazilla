@@ -7,3 +7,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:Solanazilla/backend.git
+[submodule "chat"]
+	path = chat
+	url = git@github.com:Solanazilla/chat.git
